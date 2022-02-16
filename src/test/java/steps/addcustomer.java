@@ -80,6 +80,7 @@ public class addcustomer {
     public void click_link_go_back_to_list() {
         driver.findElement(By.id("save-and-go-back-button")).click();
         driver.quit();
-    }
 
+    }
+    // FIM
 }
